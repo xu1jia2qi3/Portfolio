@@ -1,5 +1,6 @@
-.logo-image {
+#logo-image {
     width: 200px;
+    align: bottom;
 }
 .line {
     width: 100%;
@@ -10,6 +11,10 @@
     width:100%;
     height:auto;
 }
-.header1 {
-    clear:left;
+#subtitle {
+    color: #7d97ad;
+}
+#small3 {
+    background-color: #1b2460;
+    border-radius: 50%;
 }
