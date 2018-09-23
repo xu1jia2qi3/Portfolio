@@ -9,12 +9,27 @@
 }
 .big-pic {
     width:100%;
-    height:auto;
+    height:500px;
 }
 #subtitle {
     color: #7d97ad;
 }
-#small3 {
-    background-color: #1b2460;
-    border-radius: 50%;
+
+#card3 {
+    margin-top: 32px;
+}
+.card-img-top {
+    padding: 15px;
+}
+.card {
+    border: none;
+}
+footer {
+    text-align:center;
+}
+@media screen and (max-width:575px) {
+    .card-img-top {
+        width: 50%;
+        height: auto;
+    }
 }
