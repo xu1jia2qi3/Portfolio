@@ -1,15 +1,23 @@
 #logo-image {
     width: 200px;
 }
+
+
 #logo-box {
     padding-left: 0px;
 }
+
+
 #name {
     text-align: right;
 }
+
+
 #position {
     text-align: right;
 }
+
+
 .line {
     width: 100%;
     background-color: #7d97ad;
@@ -17,10 +25,14 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+
 .big-pic {
-    width:100%;
-    height:500px;
+    width: 100%;
+    height: 500px;
 }
+
+
 #subtitle {
     color: #7d97ad;
 }
@@ -28,31 +40,45 @@
 .card-img-top {
     padding: 15px;
 }
+
+
 .card {
     border: none;
 }
+
+
 footer {
-    text-align:center;
+    text-align: center;
     margin-top: 8px;
 }
+
+
 #bottom-section {
-    display:flex;
+    display: flex;
 }
+
+
 body {
-    margin-top:20px;
+    margin-top: 20px;
 }
+
+
 @media screen and (max-width:575px) {
     .card-img-top {
         width: 50%;
         height: auto;
     }
 }
+
+
 @media screen and (min-width: 992px){
-    .container {
+     .container {
         width: 992px;
         margin-left: auto;
         margin-right: auto;
     }
+
+
     .card-img-top {
         padding: 40px;
     }
