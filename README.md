@@ -1,8 +1,18 @@
-# profilio
+# Portfolio Site
+## Getting Started
 
-To use this project you must to have chrome installed (or other browsers)
+* You can *[clone](https://github.com/xu1jia2qi3/portfolio.git)* or *[download](https://github.com/xu1jia2qi3/portfolio.git)* this project to your local machine.
 
-1. download the code or clone the repository
-2 double click index.html
-3 chose chrome as browser
-4 enjoy the portfolio
+### How to use
+
+* Open and Run the **index.html**
+* You can resize the website to fit your preference.
+* Chose chrome as browser
+* enjoy the portfolio
+* Or you can simply vist this **[website](https://xu1jia2qi3.github.io/portfolio/)**.
+
+
+## License
+
+* This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
